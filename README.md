@@ -316,7 +316,7 @@ pytest tests/ --cov=. --cov-report=html
 
 ### Full Requirements
 
-See `requirements_refactored.txt` for complete list.
+See `requirements.txt` for complete list.
 
 ---
 
