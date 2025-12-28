@@ -2,7 +2,7 @@
 
 > **Retrieval-Augmented Generation (RAG) system for Uantwerp academic course information**
 
-A production-ready RAG system that combines vector similarity search with cross-encoder reranking to provide accurate, context-aware answers about academic courses. Built with a modular architecture for maintainability and extensibility.
+RAG system that combines vector similarity search with cross-encoder reranking to provide accurate, context-aware answers about academic courses. Built with a modular architecture for maintainability and extensibility.
 
 ---
 
